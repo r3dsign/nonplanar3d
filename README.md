@@ -1,12 +1,23 @@
-# nonplanar3d
+# non-planaR3D
 A grasshopper algorithm to generate non planar paths and gcode for 3d printing on grasshopper platform.
-
 The code is divided in modules, so the user can switch beetween and generate its own path, in the future the idea is to bring more modules and maybe transform the definition in a plugin for grasshopper.
+
+Please join us in the telegram comunnity: https://t.me/+VaCLP2BBoYwxYjYx
 
 3D Slicing Module:
 ![image](https://user-images.githubusercontent.com/118382008/202248763-16ce80af-0051-467b-9851-4364b994a4df.png)
 
+Geometry Generation Modules:
+![image](https://user-images.githubusercontent.com/118382008/202249373-6686b2b5-69e5-4a44-8587-1eeba5819b03.png)
 
+Wall and Infill Modules:
+![image](https://user-images.githubusercontent.com/118382008/202249802-bdd73f71-06bc-4b6a-8d6d-7681de2d445b.png)
+
+Path and Gcode Modules:
+![image](https://user-images.githubusercontent.com/118382008/202250598-44762d06-48d0-441b-9432-f3b78c039343.png)
+
+Print Settings Module:
+![image](https://user-images.githubusercontent.com/118382008/202250657-d7ca9ffb-dbdb-4bb6-a772-92c39562bd2a.png)
 
 
 
