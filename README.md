@@ -2,7 +2,19 @@
 A grasshopper algorithm to generate non planar paths and gcode for 3d printing on grasshopper platform.
 The code is divided in modules, so the user can switch beetween and generate its own path, in the future the idea is to bring more modules and maybe transform the definition in a plugin for grasshopper.
 
-Please join us in the telegram comunnity: https://t.me/+VaCLP2BBoYwxYjYx
+Please join us in the telegram community: https://t.me/+VaCLP2BBoYwxYjYx
+
+**What you need to use this:**
+
+Rhino 7 (Grasshopper)
+Plugins:
+Pufferfish - https://www.food4rhino.com/en/app/pufferfish
+Wombat - https://www.food4rhino.com/en/app/wombatgh
+Silkworm - https://www.food4rhino.com/en/app/silkworm
+Lunchbox - https://www.food4rhino.com/en/app/lunchbox
+Bifocals(optional) - https://www.food4rhino.com/en/app/bifocals
+
+and a lot of patience 
 
 3D Slicing Module:
 ![image](https://user-images.githubusercontent.com/118382008/202248763-16ce80af-0051-467b-9851-4364b994a4df.png)
