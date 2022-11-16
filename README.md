@@ -19,5 +19,12 @@ Path and Gcode Modules:
 Print Settings Module:
 ![image](https://user-images.githubusercontent.com/118382008/202250657-d7ca9ffb-dbdb-4bb6-a772-92c39562bd2a.png)
 
+Paths generated: 
+![image](https://user-images.githubusercontent.com/118382008/202253279-c55b0cd9-b29d-45de-8140-ccaeb0c2c2fd.png)
 
+Gcode Preview and Export:
+![image](https://user-images.githubusercontent.com/118382008/202253770-763e119c-9035-4669-994f-084dc7a5cd32.png)
+
+The project is develop by: Raphael Bastos Lessa @r3dsign
+Thanks to Leonardo Gindri @parametrizado for all the help and knowledge in grasshopper that made this project possible.
 
