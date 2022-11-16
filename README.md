@@ -19,7 +19,7 @@ and a lot of patience
 **IMPORTANT: YOU NEED TO SET YOUR FAN MANUALLY**
 
 Tutorial showing the algoritm in portuguese:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3W20fRBxrxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/3W20fRBxrxI
 
 3D Slicing Module:
 ![image](https://user-images.githubusercontent.com/118382008/202248763-16ce80af-0051-467b-9851-4364b994a4df.png)
